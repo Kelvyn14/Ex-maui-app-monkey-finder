@@ -1,1 +1,1 @@
-# Ex-maui-app-monkey-finder
+# Ex MAUI App Monkey Finder
